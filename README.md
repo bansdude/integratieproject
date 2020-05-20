@@ -6,7 +6,7 @@ cf. de readme in de pyodide map voor extra info
 
 # cpython errors
 
-Raadpleeg `cpython/build/3.7.4/Python-3.7.4/config.log`
+Raadpleeg https://github.com/bansdude/cpython/blob/master/build/3.7.4/Python-3.7.4/config.log
 
 Errors waar volgende keywords in voorkomen, komen ook voor bij het builden van kivy met pyodide:
 
