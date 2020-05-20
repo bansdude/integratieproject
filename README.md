@@ -12,6 +12,9 @@ Errors waar volgende keywords in voorkomen, komen ook voor bij het builden van k
 
 `/src/emsdk/emsdk/emscripten/tag-1.38.30/src/library_pthread_stub.js`
 
+## Errors fixen
+Zie zipfile
+
 
 # Zelf proberen builden?
 Dit project neemt ongeveer 8 GB aan ruimte in beslag. 
@@ -69,3 +72,7 @@ Volg de instructies op in de readme van pyodide zelf. (https://pyodide.readthedo
 6. Installeer vervolgens cython met het commando `pip install cython`.
 
 7. Start dan het commando `make` in `kivy/em`.
+ 
+
+
+
