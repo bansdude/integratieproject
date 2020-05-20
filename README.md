@@ -19,6 +19,8 @@ Zie bovenstaande link
 # Zelf proberen builden?
 Dit project neemt ongeveer 8 GB aan ruimte in beslag. 
 
+### optie 1
+
 ## Benodigdheden voor elke build
 1. Download de masterbranch van pyodide
 
@@ -28,6 +30,10 @@ Dit project neemt ongeveer 8 GB aan ruimte in beslag.
 2. Download de kivy fork 
 
     https://github.com/Epse/kivy/tree/emscripten-wip
+
+### optie 2
+
+1.  Download deze repository en volg een van onderstaande stappenplannen.
 
 ---
 ## Starten van scratch met bron code
@@ -72,7 +78,3 @@ Volg de instructies op in de readme van pyodide zelf. (https://pyodide.readthedo
 6. Installeer vervolgens cython met het commando `pip install cython`.
 
 7. Start dan het commando `make` in `kivy/em`.
- 
-
-
-
