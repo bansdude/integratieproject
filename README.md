@@ -13,7 +13,7 @@ Errors waar volgende keywords in voorkomen, komen ook voor bij het builden van k
 `/src/emsdk/emsdk/emscripten/tag-1.38.30/src/library_pthread_stub.js`
 
 ## Errors fixen
-Zie zipfile
+Zie bovenstaande link
 
 
 # Zelf proberen builden?
